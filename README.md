@@ -1,3 +1,1 @@
-This repository is to understand git better
-I will learn more about git
-
+Task 0. Where am I'
